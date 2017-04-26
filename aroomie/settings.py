@@ -184,7 +184,7 @@ PUSH_NOTIFICATIONS_SETTINGS = {
 
 import cloudinary
 cloudinary.config(
-  cloud_name = "blizzard339",
+  cloud_name = "dmvwo9n3s",
   api_key = os.environ['CLOUDINARY_KEY'],
   api_secret = os.environ['CLOUDINARY_SECRET']
 )
